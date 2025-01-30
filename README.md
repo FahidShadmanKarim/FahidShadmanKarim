@@ -1,5 +1,5 @@
-# 💫 About Me
-🚀 Backend Engineer | Node.js | Python | System Design Enthusiast<br><br>I am a backend developer passionate about optimization, scalability, and problem-solving. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex challenges and building efficient, high-performance systems.<br><br>🔹 Tech Stack & Interests<br><br>Backend Development: Node.js , Python, FastAPI<br>Databases: PostgreSQL, MongoDB<br>System Design: Scalability, performance optimization, real-time systems<br>Emerging Technologies: RAG (Retrieval-Augmented Generation) for AI-driven applications<br>Learning: Microservices architecture, Go's concurrency model<br><br>💡 What drives me?<br>I love optimizing performance, solving real-world engineering challenges, and continuously exploring new technologies that push the boundaries of backend development. Always eager to learn and adapt, I stay curious about building better, more efficient systems.<br><br>🤝 Let’s connect! Whether it’s discussing backend optimizations, AI-driven applications, or system design, I’m always up for a great conversation!
+# 💫 About Me:
+🚀 Backend Developer | Node.js | Python | Problem-Solving Enthusiast<br><br>I am a backend developer passionate about optimization, scalability, and problem-solving. With a strong foundation in Data Structures and Algorithms, I enjoy tackling complex challenges and building efficient backend systems.<br><br>🔹 Tech Stack & Interests<br><br>Backend Development: Node.js, Python, FastAPI<br>Databases: PostgreSQL, MongoDB<br>Learning: Microservices architecture, Go's concurrency model<br>Exploring: RAG (Retrieval-Augmented Generation) for AI-driven applications<br><br>💡 What drives me?<br>I love optimizing performance, solving real-world engineering challenges, and continuously learning. Always eager to adapt and explore, I stay curious about improving backend efficiency and scalability.<br><br>🤝 Let’s connect! Whether it’s discussing backend development, AI-driven applications, or problem-solving strategies, I’m always up for a great conversation!
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FahidShadmanKarim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
